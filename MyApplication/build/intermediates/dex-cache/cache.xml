@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_f6a0403a62e116731cf79a6f39466d373f3f3c17\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_0602e3fe5d2d788b3b43a99feac581ed4bed70ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_dcd1dd908edc1039a4b93403898144354fb2f6b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_7f4437ad4f6dc828056d881e2efadd1a00549bfb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_42c46a85ab3b48136987f89579fd61c6a7d71f23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ced70167fbd25eea4ed282532aa13782c8e53434">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6491276936b165b204abfe8191858850c01f86da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_fb2cbfef07b809f50fe659b23c894e392ba02a16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_e04d189b0ea07b7627c52865be4e5fe66895ff09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7e4b555bde23c89e9b75da3f9a47df72f0037a2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_a0edab1d1d6d93082fd9bc1c520972e10efee942\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_cccc75c7f066663b2fb9de54b29e6ddc8034c5fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_30b71334c0fb91577e01e69fd3d9a1d6e1181faa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dbafb02a6096ab03c34ed687c57d6f26cb6269b7">
+        <dex dex="C:\Users\Magesh\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3796bcd29dda63774c9dd88a65aeb43f7ac68949\classes.dex" />
+    </item>
+
+</items>

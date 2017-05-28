@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:scrollbars="vertical"
+    android:id="@+id/k"
+    android:background="#33FF9F"
+    android:clickable="true"
+    android:fadingEdgeLength="45dp"
+    android:orientation="vertical"
+    tools:context="com.example.android.myapplication.SecondActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:id="@+id/Text1"
+        android:textSize="22sp"
+        android:layout_margin="16dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text='WHOSE SIDE ARE YOU ON?'
+        android:padding="16dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+
+        android:textSize="16sp"
+        android:layout_margin="16dp"
+        android:layout_gravity="center"
+
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/download"
+        android:layout_margin="5dp"
+        android:elevation="12dp"
+        android:textAlignment="center"
+        android:padding="8dp"
+
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+            <Button
+                android:id="@+id/prop"
+                android:layout_width="145dp"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_weight="1"
+                android:layout_gravity="center_horizontal|center"
+                android:text="PROPOSITION"
+                android:elevation="8dp"
+                android:textStyle="bold"
+                android:layout_margin="7dp"
+                android:background="#FCFF33"
+                android:onClick="Prop"            />
+            <Button
+                android:id="@+id/opp"
+                android:layout_width="145dp"
+                style="?android:attr/buttonStyleSmall"
+                android:textAlignment="center"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_gravity="center_horizontal|center"
+                android:text="OPPOSITION"
+                android:elevation="8dp"
+                android:textStyle="bold"
+                android:layout_margin="7dp"
+                android:background="#FCFF33"
+                android:onClick="Opp"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>
+
+
